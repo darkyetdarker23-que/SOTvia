@@ -1,0 +1,4 @@
+ChatGPT via SOT 1.0.0
+Package format: 1
+Tested SOT baseline: 1.2.1
+Tested OpenAI.Codex/ChatGPT baseline: 26.1013.4894.0
